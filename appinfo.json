@@ -1,0 +1,63 @@
+{
+  "uuid": "525951fb-afd2-487e-965e-bb4232519a5b",
+  "shortName": "Pandas & Bananas",
+  "longName": "Pandas & Bananas",
+  "companyName": "Matthew Hungerford",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "targetPlatforms": [
+    "basalt"
+  ],
+  "sdkVersion": "3",
+  "resources": {
+    "media": [
+      {
+        "type":"raw",
+        "name":"TITLE",
+        "file":"images/title.png"
+      }, {
+        "type":"raw",
+        "name":"PANDA",
+        "file":"images/panda.png"
+      }, {
+        "type":"raw",
+        "name":"EXPLOSION",
+        "file":"images/explosion.png"
+      }, {
+        "type":"raw",
+        "name":"PIPES",
+        "file":"images/pipes.png"
+      }, {
+        "type":"raw",
+        "name":"BANANA",
+        "file":"images/banana.png"
+      }, {
+        "type":"raw",
+        "name":"WATERMELLON",
+        "file":"images/watermellon.png"
+      }, {
+        "type":"raw",
+        "name":"STRAWBERRY",
+        "file":"images/strawberry.png"
+      }, {
+        "type":"raw",
+        "name":"PINEAPPLE",
+        "file":"images/pineapple.png"
+      }, {
+        "type":"raw",
+        "name":"BOMB",
+        "file":"images/bomb.png"
+      }, {
+        "type":"raw",
+        "name":"HEART",
+        "file":"images/heart.png"
+      }
+    ]
+  }
+}
